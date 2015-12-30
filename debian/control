@@ -1,0 +1,14 @@
+Source: libnet-ip-xs-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: perl, libtie-simple-perl, libio-capture-perl, libip-country-perl
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Standards-Version: 3.9.1
+Homepage: https://github.com/jelu/p5-Net-IP-XS
+
+Package: libnet-ip-xs-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, libtie-simple-perl, libip-country-perl
+Description: IPv4/IPv6 address library
+ IPv4/IPv6 address library

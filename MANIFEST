@@ -9,6 +9,7 @@ lib/Net/IP/XS.pm
 LICENSE
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 NetIpXs.xs
 object.c
 object.h
