@@ -1,3 +1,9 @@
+libnet-ip-xs-perl (0.16-4~unstable+1) unstable; urgency=low
+
+  * Fix dependency due to architecture depended build.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Mon, 04 Jan 2016 10:38:11 +0100
+
 libnet-ip-xs-perl (0.16-3~unstable+1) unstable; urgency=low
 
   * Fix architecture.
